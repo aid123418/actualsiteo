@@ -35,6 +35,6 @@ with tab2:
     st.link_button(url="https://mail.google.com/mail/u/0/#inbox", label="Link to G-mail")
 
 with tab3:
-    if st.button('Rules and Guide to site Ω')
+    if st.button('Rules and Guide to site Ω'):
         st.link_button(url="https://roblox.com/home", label="Roblox TOS")
         st.link_button(url="https://roblox.com/home", label="Site Ω Rules")
