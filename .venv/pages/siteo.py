@@ -20,7 +20,7 @@ with col2:
               "If you are here for the applications- Please click the Applicatons and and the name application you want to do."
               " If you are here to contact me. Use the info on the contact info tab. The rules are on the rules tab as usual. ")
     st.link_button(url="https://discord.com/invite/TgAvQNGubx", label="Site Ω Communications")
-    st.image('images/omega.jpeg')
+    st.image('images/omega')
 
 
 tab1, tab2, tab3 = st.tabs(["Applications", "Contact Info", "Rules"])
