@@ -13,7 +13,7 @@ with col1:
                    " I now have 2 accounts, aid123418 (my old, mostly unused) And Tea_timetoday1. Im using my main account to create this server-"
                    " as i have been intruiged on people making awesome custom servers. ")
     st.link_button(url="https://www.roblox.com/games/5041144419/SCP-Roleplay", label="SCP: Roleplay link")
-    st.image('images/webp.webp')
+    st.image('images/scp.jpg')
 
 with col2:
     st.write ("You may find our communications server, and the link to SCP: Roleplay. The Links are below."
@@ -38,3 +38,4 @@ with tab3:
     if st.button('Rules and Guide to site Ω'):
         st.link_button(url="https://roblox.com/home", label="Roblox TOS")
         st.link_button(url="https://roblox.com/home", label="Site Ω Rules")
+
